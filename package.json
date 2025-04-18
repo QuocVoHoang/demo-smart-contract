@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "benchmark": "truffle exec scripts/benchmark.js"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.15",
+    "dotenv": "^16.5.0",
+    "performance-now": "^2.1.0"
+  }
+}
